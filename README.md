@@ -1,5 +1,5 @@
-# awesome-jsut
-😎天呐，这所学校真厉害
+# awesome-jsutite
+😎天呐，这个社团真厉害
 
 # 这里是ITE历届社长的博客
 

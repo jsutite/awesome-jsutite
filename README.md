@@ -1,6 +1,18 @@
 # awesome-jsutite
 😎天呐，这个社团真厉害
 
+# 为什么叫JSUTITE
+
+JiangSu University of Technology Information Technology Equipe
+
+`Equipe`是法语，团队的意思。
+
+至于为什么用法语`Equipe`，不用英语`Association`因为[我](https://github.com/IcingTomato)当时想用`ITA`来着，结果一好奇查了一下
+
+[国际技师协会-百度百科](https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E6%8A%80%E5%B8%88%E5%8D%8F%E4%BC%9A/23308300?fromtitle=ITA&fromid=24069445&fr=aladdin)
+
+国际技师协会(International technician Association)是由高等职业技师、职业科技专家、科技合作机构和专业评审等共同组成的职业技师国际联盟机构......
+
 # 这里是ITE历届社长的博客
 
 ## Lists

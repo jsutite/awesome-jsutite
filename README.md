@@ -43,7 +43,7 @@ JiangSu University of Technology Information Technology Equipe
 
 在**最下面一行**添加 (相当于按时间顺序，为以后的增量提醒做准备)
 
-TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发pull request。
+ITE的同学们有权限可以直接编辑此文件；其它同学们烦请发pull request。
 
 推荐在 commit log 或者 pull request 里面简单介绍一下自己，比如常用的 ID 等。
 

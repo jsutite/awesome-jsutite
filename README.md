@@ -17,7 +17,7 @@ JiangSu University of Technology Information Technology Equipe
 
 ## Lists
 
-| Name | GRADE | HTML | GitHub |
+| Name | GRADE | BLOG | GitHub |
 | --   | --  | --   | --   |
 | 瞿 越 | 2015 |     |     |
 | 王 奔 | 2016 |     |     |
@@ -25,6 +25,7 @@ JiangSu University of Technology Information Technology Equipe
 | 王梓涛 | 2018 | [Freezing Rain](http://150.158.159.239/) | [@EMHAK](https://github.com/EMHAK) |
 | 廖桂祥 | 2019 | [r4yn's blog](https://blog.lg10.cn/) | [@r4yn](https://github.com/r4yn) |
 | 潘知非 | 2020 | [icing@tomato:~$](http://icing.fun/) | [@IcingTomato](https://github.com/IcingTomato) |
+| 姚 晋 | 2021 | | |
 
 # 这里收藏着世界一流的同学们的Blog
 

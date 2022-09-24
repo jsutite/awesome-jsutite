@@ -13,6 +13,8 @@ JiangSu University of Technology Information Technology Equipe
 
 国际技师协会(International technician Association)是由高等职业技师、职业科技专家、科技合作机构和专业评审等共同组成的职业技师国际联盟机构......
 
+只不过学校内部叫做 科技协会网络协会
+
 # 这里是ITE历届社长的博客
 
 ## Lists
